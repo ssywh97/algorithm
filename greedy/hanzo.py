@@ -14,3 +14,4 @@ for i in S:
     ans = max(ans, count)
 
 print(ans)
+print(1)
