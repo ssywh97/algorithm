@@ -19,3 +19,5 @@ graph = [
 ]
 
 visited = [False] * 9
+
+dfs(graph, 1, visited)
