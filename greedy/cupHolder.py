@@ -5,3 +5,5 @@ if (count <= 1):
     print(len(member)) 
 else:
     print(len(member) - count + 1)
+
+print('')
